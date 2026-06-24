@@ -199,6 +199,9 @@ export default function BelCantoBooking() {
       font-family: 'Cormorant Garamond', Georgia, serif;
       position: relative;
       overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     /* Vignette corners */
